@@ -1,0 +1,94 @@
+sudo apt update
+sudo apt upgrade
+sudo apt clean
+cd
+mkdir repogit
+ls
+pwd
+cd repogit
+pwd
+ls
+cat $HOME/.ssh/*.pub
+cd repogit
+git clone git@github.com>tamy023/TP_AySO.git
+git clone
+cd
+cd repogit
+ls
+cd TP_AySO
+pwd
+ls
+echo "Usuario=(whoami)">datos_usuario.txt
+cat datos_usuario.txt
+git add .
+git commit -m "ADD:primer ejercicio"
+git push
+git status
+git add datos_usuario.txt
+git commit -m "ADD: primer ejercicio"
+git push
+pwd
+ls
+git status
+git commit -m "ADD: primer ejercicio"
+git config --global user.name "tamara"
+git config --global user.email"tamy_023@hotmail.com"
+git commit -m "ADD: primer ejercicio"
+git push
+gitconf--global user.name"tamara"
+gitconfig--global user.name"tamara"
+git config --global user.name"tamara"
+git config --global user.email"tamy_023@hotmail.com"
+git config --global --list
+git config user.name "tamara"
+git config user.email "tamy_023@hotmail.com"
+git config --global --list
+git config user.email "Tamy_023@hotmail.com"
+git config --global --list
+git config user.email Tamy_023@hotmail.com
+git config --global --list
+nano -/.gitconfig
+nano~/.gitconfig
+git config //list
+git config--list
+git config --list
+git commit -m "ADD: primer ejercicio"
+git push
+cat /etc/os-release
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep -i home_url /etc/os-release
+whoami
+grep "model name" /proc/cpuinfo\'| whoami
+grep "model name" /proc/cpuinfo |head -n1 >> datos_usuario.txt
+cat datos_usuario.txt
+git add .
+git commit -m "feat: Anadiendo informacion de CPU"
+git push
+cat <<EOF >> README.md
+Alumno: Tamara
+Division: 315
+Turno: Noche
+EOF
+
+cat README.md
+cat <<EOF > README.md
+# TP_AySO
+Alumno: Tamara
+Division: 315
+Turno: Noche
+EOF
+
+cat README.md
+git add README.md datos_usuario.txt
+git commit -m "ADD: Anadiendo Readme y datos de usuario"
+git push
+history -a
+cp ~/.bash_history ./ Historial_comandos_Tamara.txt
+cp ~/.bash_history ./
+Historial_comandos_Tamara.txt
+cat Historial_comandos_Tamara.txt
+cp ~/.bash_history ./
+Historial_comandos_Tamara.txt
+pwd
+history -a
